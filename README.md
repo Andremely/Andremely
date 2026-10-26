@@ -8,7 +8,7 @@ Soy ingeniera de formación, con bases en análisis y procesos operativos, y act
 * 🎯 **Mi objetivo a corto plazo:** Encontrar una oportunidad como analista SOC Junior (Nivel 1) en una empresa donde pueda aportar valor y seguir creciendo.
 
 ---
-📫 ¿Quieres conectar conmigo? Búscame en [LinkedIn](www.linkedin.com/in/andrea-melissa-gregorio).
+📫 ¿Quieres conectar conmigo? Búscame en [LinkedIn](https://www.linkedin.com/in/andrea-melissa-gregorio).
 
 <!--
 **Andremely/Andremely** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
